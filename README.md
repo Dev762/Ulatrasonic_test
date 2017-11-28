@@ -1,6 +1,6 @@
 # Ulatrasonic_test
 
- This sketch reads a ultrasonic rangefinder thatt is mounted over a conveyor and returns the distance to the closest object in range.
+ This sketch reads a ultrasonic rangefinder that is mounted over a conveyor and returns the distance to the closest object in range.
     To do this, it sends a pulse to the sensor to initiate a reading, then listens for a pulse to return.
     The length of the returning pulse is proportional to the time of the returning pulse is converted into a distance in mm.
     The conveyor transports three types of objects (Object 1, 2 and 3).
